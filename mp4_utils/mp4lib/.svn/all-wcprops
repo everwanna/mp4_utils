@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/webacc/!svn/ver/2466/test/mp4_utils/mp4lib
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/stdafx.h
+END
+atom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/atom.cpp
+END
+buffer_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/buffer_io.cpp
+END
+trak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/webacc/!svn/ver/2507/test/mp4_utils/mp4lib/trak.cpp
+END
+mp4_meta_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/mp4_meta_loader.h
+END
+atom.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/atom.h
+END
+buffer_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/buffer_io.h
+END
+trak.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/webacc/!svn/ver/2499/test/mp4_utils/mp4lib/trak.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/targetver.h
+END
+mp4lib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/webacc/!svn/ver/2502/test/mp4_utils/mp4lib/mp4lib.vcproj
+END
+parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/webacc/!svn/ver/2507/test/mp4_utils/mp4lib/parse.cpp
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/webacc/!svn/ver/2507/test/mp4_utils/mp4lib/parse.h
+END
+moov.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/moov.cpp
+END
+moov.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/moov.h
+END
+box.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/box.cpp
+END
+atoms.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/atoms.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/ReadMe.txt
+END
+mp4_meta_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/mp4_meta_loader.cpp
+END
+atom_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/atom_structs.h
+END
+box.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/webacc/!svn/ver/2465/test/mp4_utils/mp4lib/box.h
+END

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mp4_splitter", "mp4_splitter\mp4_splitter.vcproj", "{F422C991-AD1E-43A1-8BEB-5E2D2A3E0745}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chunk_reorder", "chunk_reorder\chunk_reorder.vcproj", "{FEE2C5B2-42FC-4ABF-922B-C456EF2FE48A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mp4lib", "mp4lib\mp4lib.vcproj", "{C5688886-F636-4616-9FBE-0EC9DD410C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F422C991-AD1E-43A1-8BEB-5E2D2A3E0745}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F422C991-AD1E-43A1-8BEB-5E2D2A3E0745}.Debug|Win32.Build.0 = Debug|Win32
+		{F422C991-AD1E-43A1-8BEB-5E2D2A3E0745}.Release|Win32.ActiveCfg = Release|Win32
+		{F422C991-AD1E-43A1-8BEB-5E2D2A3E0745}.Release|Win32.Build.0 = Release|Win32
+		{FEE2C5B2-42FC-4ABF-922B-C456EF2FE48A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEE2C5B2-42FC-4ABF-922B-C456EF2FE48A}.Debug|Win32.Build.0 = Debug|Win32
+		{FEE2C5B2-42FC-4ABF-922B-C456EF2FE48A}.Release|Win32.ActiveCfg = Release|Win32
+		{FEE2C5B2-42FC-4ABF-922B-C456EF2FE48A}.Release|Win32.Build.0 = Release|Win32
+		{C5688886-F636-4616-9FBE-0EC9DD410C08}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5688886-F636-4616-9FBE-0EC9DD410C08}.Debug|Win32.Build.0 = Debug|Win32
+		{C5688886-F636-4616-9FBE-0EC9DD410C08}.Release|Win32.ActiveCfg = Release|Win32
+		{C5688886-F636-4616-9FBE-0EC9DD410C08}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
